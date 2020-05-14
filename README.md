@@ -4,3 +4,4 @@ This project is an atm machine simulator, letting the user withdraw, transfer, d
 There was no divison of the task as I did everything alone.
 There was a challenge problem included which was to use the least amount of bills possible while a user withdraws money. 
 
+The remote repository is : https://github.com/radeefchowdhury/Assignement-2.git
